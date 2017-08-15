@@ -1,4 +1,4 @@
-# Javascript-tips-chrome-extension-
+# Javascript-tips-chrome-extension
 Javascript tips on new browser tabs 
 
 To enable the extension go to chrome://extensions/ and:
